@@ -1,0 +1,24 @@
+程式設計﹝二﹞ hw2 
+
+系級：資訊 105 乙 
+
+學號：F74012112	 
+
+姓名：林詠謙
+
+執行環境： Ubuntu 12.04
+
+指令： ./give_question
+	   ./solve
+
+作業要求： 
+
+a give_question
+b solve
+
+程式解說：
+我的程式中，出題的部分是將一個數獨的board挖空格，然後在輸出至question.txt而在解題的部分，是將question.txt讀入，在進行解題，解題時是使用recursive的方式，結束時再將答案輸出至answer.txt
+UML:
+
+
+
